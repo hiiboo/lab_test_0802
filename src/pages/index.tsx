@@ -18,23 +18,26 @@ export default function SimpleSlider() {
   return (
     <Slider {...settings}>
       <div>
-        <h3>Slide 1</h3>
-        <img src="https://junpei-sugiyama.com/wp-content/uploads/2021/01/dog02.jpg" />
+        <img src="https://kai-you.net/r/img_words/844301/c688x516/75935d7fc0bccd4ff4d24c7c88f2aa1e.jpg" />
+        <h3>ヒソカ</h3>
       </div>
       <div>
-        <h3>Slide 2</h3>
+        <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/g913/20170107/20170107091158.jpg" />
+        <h3>イルミ</h3>
+      </div>
+      <div>
+        <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/g913/20170515/20170515114123.jpg" />
+        <h3>ゴレイヌ</h3>
         {/* ここに2番目のカードの内容を追加 */}
       </div>
       <div>
-        <h3>Slide 3</h3>
+        <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/g913/20170204/20170204102113.jpg" />
+        <h3>ウヴォーギン</h3>
         {/* ここに2番目のカードの内容を追加 */}
       </div>
       <div>
-        <h3>Slide 4</h3>
-        {/* ここに2番目のカードの内容を追加 */}
-      </div>
-      <div>
-        <h3>Slide 5</h3>
+        <img src="https://comic-kingdom.jp/wp-content/uploads/2020/05/8-3.jpg" />
+        <h3>トンパ</h3>
         {/* ここに2番目のカードの内容を追加 */}
       </div>
     </Slider>
