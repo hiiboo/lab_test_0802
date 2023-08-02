@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <div>
       <h1>TOP画面</h1>
+      <h2>TOP画面</h2>
     </div>
   );
 }
